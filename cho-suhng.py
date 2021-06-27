@@ -1,7 +1,7 @@
 import discord, asyncio, random
 from discord.ext import commands
 
-token="ODIzNzkzOTcyMTQwMDQ4NDA2.YFl_7A.60u1p_STHuyLUmev6_o02Gi1z2c"
+token="???"
 game=discord.Game("초성게임")
 bot=commands.Bot(command_prefix="!", status=discord.Status.online, activity=game)
 
